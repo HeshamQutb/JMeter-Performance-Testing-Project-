@@ -108,5 +108,5 @@ Please follow code standards: Use descriptive sampler names, comment complex log
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, reach out via LinkedIn or email: [www.linkedin.com/in/hesham-qutb].
+For questions or feedback, reach out via LinkedIn or email: [![My LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](www.linkedin.com/in/hesham-qutb) .
 Project completed on October 29, 2025.
