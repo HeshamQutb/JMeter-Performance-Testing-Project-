@@ -47,15 +47,14 @@ All scripts adhere to best practices for realism and reliability, ensuring repro
 No additional installations required beyond JMeter and plugins.
 
 ## Project Structure
-.
-├── API\JMeter_Assignment_API.jmx     # Main script with API, Thread Group
-├── API\Test_data_API.csv             # CSV for API create token credentials
-├── API\Report.pdf                    # SLA analysis with Aggregate Report screenshot and table
-├── UI\JMeter_Assignment_UI.jmx       # Main script with Web flows, Thread Group
-├── UI\Test_data_UI.csv               # CSV for Web registration data
-├── JMeter_Assignment_first.jmx       # Stepping Thread Group load profile
-├── JMeter_Assignment_second.jmx      # Ultimate Thread Group spiked load profile
-└── README.md                         # This file
+    .
+    ├── API/JMeter_Assignment_API.jmx     # Main script with API, Thread Group
+    ├── API/Test_data_API.csv             # CSV for API create token credentials
+    ├── API/Report.pdf                    # SLA analysis with Aggregate Report screenshot and table
+    ├── UI/JMeter_Assignment_UI.jmx       # Main script with Web flows, Thread Group
+    ├── UI/Test_data_UI.csv               # CSV for Web registration data
+    ├── JMeter_Assignment_first.jmx       # Stepping Thread Group load profile
+    └── JMeter_Assignment_second.jmx      # Ultimate Thread Group spiked load profile
 
 
 ## Setup and Configuration
